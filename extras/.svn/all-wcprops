@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/!svn/ver/38/clientdb/extras
+END
+txtlocal.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/38/clientdb/extras/txtlocal.py
+END
+utilities.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/45/clientdb/extras/utilities.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/38/clientdb/extras/__init__.py
+END
+checkup.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/51/clientdb/extras/checkup.py
+END

@@ -1,1 +1,5 @@
 Simple app for checking http response headers from a list of websites. 
+
+Was part of a (never fully developed) larger client management app, so
+contains a lot of cruft and needs to be revisited.
+
